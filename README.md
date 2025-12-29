@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <strong>মৌচাক (Mouchak)</strong> — "Beehive" in Bengali 🇧🇩
+  <strong>মৌচাক (Mouchak)</strong> — "Beehive" in Bengali
 </p>
 
 This is the official Homebrew tap for Mouchak products.
